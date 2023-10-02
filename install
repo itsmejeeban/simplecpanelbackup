@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Simple cPanel Backup Installer
+echo -e "\e[1;33m---------------------------------------------------------"
+echo -e "Simple cPanel Backup"
+echo -e "Version: 1.0"
+echo -e "---------------------------------------------------------\e[0m"
+echo -e""
